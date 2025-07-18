@@ -1,24 +1,24 @@
 {
-  "name": "PRABATH-MD (3.0.0)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "DEW-MD (3.0.0)",
+  "description": "DRW-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://i.ibb.co/YnKwtFV/50d27b64cf679379.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "+94 77 141 6523",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~l9K5EQoPaUV7CU4",
       "required": false
     },  
 
 
     "DATABASE": {
-      "description": "put any one database URL — Github token, MongoDB, MySQL, or PostgreSQL.",
+      "description": "mongodb+srv://sumedasuranjan3:NVGRTgXmdXYlYZDC@manudb.ficdu32.mongodb.net/",
       "required": true
     }   
 },
