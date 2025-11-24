@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  prabath-md-next:
+    build: .
+    container_name: prabath_md_next
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - ./session:/app/session

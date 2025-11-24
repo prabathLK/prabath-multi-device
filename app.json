@@ -1,0 +1,31 @@
+{
+  "name": "PRABATH-MD_Next (4.0.0)",
+  "description": "PRABATH-MD_Next is a Powerful Whatsapp bot, upgraded to ESM. 👨‍💻❤️",
+  "logo": "https://i.ibb.co/YnKwtFV/50d27b64cf679379.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "success_url": "/",
+
+  "env": {
+    "BOT_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },  
+
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": false
+    },  
+
+    "DATABASE": {
+      "description": "put any one database URL — Github token, MongoDB, MySQL, or PostgreSQL.",
+      "required": true
+    }   
+  },
+
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "stack": "heroku-24"  
+}
