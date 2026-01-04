@@ -31,8 +31,8 @@
   <br>
   <br>
 
-  <a href="https://gitlab.com/prabathLK/prabath-md/-/forks/new">
-    <img src="https://img.shields.io/badge/FORK%20REPO-GITLAB-orange?style=for-the-badge&logo=gitlab" alt="Fork on GitLab">
+  <a href="https://github.com/prabathLK/prabath-multi-device/fork">
+    <img src="https://img.shields.io/badge/FORK%20REPO-GITHUB-orange?style=for-the-badge&logo=github" alt="Fork on Github">
   </a>
 
 </div>
