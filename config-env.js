@@ -12,7 +12,8 @@ let username = 'unknown_user';
 
 try {
     username = fs.readFileSync(`${rf}-github_username.txt`, 'utf8').trim();
-} catch (err) { }
+} catch (err) {
+    }
 
 const GITHUB_TOKEN =
     process.env.GITHUB_AUTH_TOKEN ||

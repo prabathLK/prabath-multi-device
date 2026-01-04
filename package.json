@@ -1,7 +1,7 @@
 {
   "name": "prabath-md-next",
-  "version": "4.0.0",
-  "description": "PRABATH-MD_Next is a Powerful Whatsapp bot, upgraded to ES Modules.",
+  "version": "4.5.0",
+  "description": "PRABATH-MD_Next is a Powerful WhatsApp bot",
   "main": "start.js",
   "type": "module",
   "scripts": {

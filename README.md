@@ -9,7 +9,7 @@
 ### Next-Generation JavaScript WhatsApp Assistant
 
   <p>
-    <a href="https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x">
+    <a href="https://whatsapp.com/channel/0029Vb7Aj9DGOj9g8dqZ2P2T">
        <img alt="WhatsApp Channel" src="https://img.shields.io/badge/Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
   </p>
@@ -24,15 +24,15 @@
   
   <p>Click the button below to deploy your own instance instantly.</p>
 
-  <a href="https://prabath-md-next.onrender.com">
+  <a href="https://md.prabath.top">
     <img src="https://img.shields.io/badge/DEPLOY%20NOW-WEBSITE-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render" width="220">
   </a>
 
   <br>
   <br>
 
-  <a href="https://github.com/prabathLK/prabath-multi-device/fork">
-    <img src="https://img.shields.io/badge/FORK%20THIS%20REPO-GITHUB-black?style=for-the-badge&logo=github" alt="Fork on GitHub">
+  <a href="https://gitlab.com/prabathLK/prabath-md/-/forks/new">
+    <img src="https://img.shields.io/badge/FORK%20REPO-GITLAB-orange?style=for-the-badge&logo=gitlab" alt="Fork on GitLab">
   </a>
 
 </div>
@@ -82,11 +82,11 @@
 
 <div align="center">
 
-<a href="https://prabath-md-next.onrender.com/terms">
+<a href="https://md.prabath.top/terms">
   <img src="https://img.shields.io/badge/Terms%20%26%20Conditions-Read%20Here-red?style=flat-square" alt="Terms">
 </a>
 
-<a href="https://prabath-md-next.onrender.com/issues">
+<a href="https://md.prabath.top/issues">
   <img src="https://img.shields.io/badge/Report%20an%20Issue-Contact%20Support-orange?style=flat-square" alt="Issues">
 </a>
 
@@ -98,7 +98,7 @@
 </a>
 
 <p>
-  <code>Released: 2023.08.24</code> | <code>Last Updated: 2025.11.24</code>
+  <code>Released: 2023.08.24</code> | <code>Last Updated: 2026.01.04</code>
 </p>
 <p>Made with ❤️ in Sri Lanka 🇱🇰</p>
 
