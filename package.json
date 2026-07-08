@@ -1,13 +1,13 @@
 {
-  "name": "prabath-md-next",
+  "name": " thanu-md-next",
   "version": "5.0.0",
-  "description": "PRABATH-MD_Next is a Powerful WhatsApp bot",
+  "description": "THANUJA-MD_Next is a Powerful WhatsApp bot",
   "main": "start.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name prabath-md-next",
-    "stop": "pm2 stop prabath-md-next",
-    "restart": "pm2 restart prabath-md-next"
+    "start": "pm2 start start.js --deep-monitoring --attach --name thanu-md-next",
+    "stop": "pm2 stop thanu-md-next",
+    "restart": "pm2 restart thanu-md-next"
   },
   "dependencies": {
     "@bochilteam/scraper-sosmed": "1.0.5",
